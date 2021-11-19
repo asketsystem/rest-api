@@ -1,0 +1,18 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "we will be using Node, Express and MongoDB to create a REST API which would support the four operations — GET, POST, PUT and DELETE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asketsystem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
